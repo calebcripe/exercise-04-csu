@@ -2,7 +2,7 @@
 title: "ESS 330 Actvity 4"
 subtitle: "Meet R, Quarto, & Github"
 author: Caleb Cripe
-date: 2/9/25
+date: 02/09/25
 format:
   html:
     toc: true
