@@ -1,8 +1,8 @@
 ---
 title: "ESS 330 Actvity 4"
 subtitle: "Meet R, Quarto, & Github"
-author: Mike Johnson
-date: last-modified
+author: Caleb Cripe
+date: 2/9/25
 format:
   html:
     toc: true
@@ -85,7 +85,7 @@ Click the settings (wheel) icon next to `knit` to render the output document in 
 ```yaml
 ---
 title: "My First Quarto Document"
-author: "Caleb Cripe"
+author: "Your Name"
 date: today
 format: html
 ---
